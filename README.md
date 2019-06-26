@@ -2,7 +2,7 @@
 
 This repository contains a series of introductory Python coding materials, as completed at [Research Platform Services](https://research.unimelb.edu.au/infrastructure/research-platform-services#training), University of Melbourne. Their github account can be accessed [here](https://github.com/resbaz).  
 
-The **aim** of this repository is to chronicle my Python learning progression and store my workshop notes. All course content should be attributed to Research Platform Services and its Python course co-ordinators. 
+The **aim** of this repository is to chronicle my Python learning progression and store my workshop notes. All course content should be attributed to Research Platform Services and its Python course instructors. 
 
 **Course instructors:**
 
@@ -21,4 +21,4 @@ The **aim** of this repository is to chronicle my Python learning progression an
 8. NLTK analysis (beginner)
 9. Intermediate level iteration
 10. Writing functions (intermediate)
-11. Error handling  
+11. Error handling
