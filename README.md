@@ -1,8 +1,8 @@
 # Introductory Python materials
 
-This repository contains a series of introductory Python coding materials, as completed at [Research Platform Services](https://research.unimelb.edu.au/infrastructure/research-platform-services#training), University of Melbourne. Their github account can be accessed [here](https://github.com/resbaz). Some coding exercises and their solutions are also derived from 'Python Crash Course' by Eric Matthes (2016).  
+This repository is builts from a series of introductory Python coding materials completed at [Research Platform Services](https://research.unimelb.edu.au/infrastructure/research-platform-services#training), University of Melbourne in 2019. Their github account can be accessed [here](https://github.com/resbaz). Some coding exercises and their solutions are also derived from Python Crash Course (8th Edition) by Eric Matthes.
 
-The **aim** of this repository is to chronicle my Python learning progression and store my coding notes. All course content should be attributed to Research Platform Services and its excellent Python course instructors.  
+The **aim** of this repository are to chronicle my Python learning progression through my personal coding notes. All original course content should be attributed to Research Platform Services and its excellent Python course instructors. All cartoons are drawn by me unless otherwise stated.  
 
 **Course instructors:**
 
@@ -11,9 +11,9 @@ The **aim** of this repository is to chronicle my Python learning progression an
 
 **Python materials**  
 
-1. Navigating Jupiter notebooks  
-2. Making lists  
-3. Making dictionaries  
+1. [Navigating Jupiter notebook and python data structures](https://github.com/erikaduan/Python-introductory-materials/blob/master/01NavigatingJupyter.ipynb)  
+2. Creating lists  
+3. Creating dictionaries  
 4. Writing if statements and for loops
 5. Writing functions (beginner)
 6. Exploring advanced Python packages
