@@ -2,7 +2,7 @@
 
 This repository is built from a series of introductory Python coding materials completed at [Research Platform Services](https://research.unimelb.edu.au/infrastructure/research-platform-services#training), University of Melbourne in 2019. Their github account can be accessed [here](https://github.com/resbaz). Some coding exercises and their solutions are also derived from Python Crash Course (8th Edition) by Eric Matthes.
 
-The **aim** of this repository are to chronicle my Python learning progression through my personal coding notes. All original course content should be attributed to Research Platform Services and its excellent Python course instructors. All cartoons are drawn by me unless otherwise stated.  
+The **aim** of this repository is to chronicle my Python learning progression by sharing my own coding notes. All original course content should be attributed to Research Platform Services and its excellent Python course instructors. All cartoons are drawn by me unless otherwise stated.  
 
 **Course instructors:**
 
