@@ -12,7 +12,7 @@ The **aim** of this repository is to chronicle my Python learning progression by
 **Python materials**  
 
 1. [Navigating Jupiter notebook and python data structures](https://github.com/erikaduan/Python-introductory-materials/blob/master/01NavigatingJupyter.ipynb)  
-2. Creating lists  
+2. [Creating lists](https://github.com/erikaduan/Python-introductory-materials/blob/master/02CreatingLists.ipynb)  
 3. Creating dictionaries  
 4. Writing if statements and for loops
 5. Writing functions (beginner)
