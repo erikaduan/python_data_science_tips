@@ -8,12 +8,12 @@ This repository of introductory Python materials has been gathered from a combin
 
 The **aim** of this repository is to chronicle and share my own Python learning progression. Coding notes should be attributed to the three sources listed above, in particular to Research Platform Services and its excellent Python workshop instructors.  
 
-![Hello Python!](https://github.com/erikaduan/Python-introductory-materials/blob/master/02_images/readme.jpg)  
+![](https://github.com/erikaduan/Introduction-to-Python/blob/master/02_figures/readme.jpg)  
 
 **Python notebooks**  
 
-1. [Navigating Jupiter notebook and Python data structures](https://github.com/erikaduan/Python-introductory-materials/blob/master/03_notebooks/01_navigating-Jupyter-notebooks-and-Python.ipynb)  
-2. [Creating and manipulating lists](https://github.com/erikaduan/Python-introductory-materials/blob/master/03_notebooks/02_creating-and-modifying-lists.ipynb)  
+1. [Navigating Jupiter notebook and Python data structures](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/01_Jupyter-notebook-and-Python-primitive-types.ipynb)  
+2. [Creating and manipulating lists](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/02_Python-data-types.ipynb)  
 3. Creating dictionaries  
 4. Writing if statements and for loops
 5. Writing functions (beginner)
