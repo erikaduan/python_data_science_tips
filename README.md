@@ -12,19 +12,15 @@ The **aim** of this repository is to chronicle and share my own Python learning 
 
 **Python notebooks**  
 
-1. [Navigating Jupiter notebook and Python data structures](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/01_Jupyter-notebook-and-Python-primitive-types.ipynb)  
-2. [Creating and manipulating lists](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/02_Python-data-types.ipynb)  
-3. Creating dictionaries  
-4. Writing if statements and for loops
-5. Writing functions (beginner)
-6. Exploring advanced Python packages
-7. Numpy and Scipy
-8. NLTK analysis (beginner)
-9. Intermediate level iteration
-10. Writing functions (intermediate)
-11. Error handling
-12. Web scraping with Beautiful Soup  
-13. Pandas  
+1. [Introduction to Jupyter notebook and Python primitive types](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/00_Jupyter-notebook-and-Python-primitive-types.ipynb)  
+2. [Python data structures](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/01_Python-data-types.ipynb)  
+3. [Introduction to Pandas DataFrames](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/02_Introduction-to-pandas.ipynb)  
+4. [If and while statements]()  
+5. [For loops]()  
+6. [Writing functions and error handling]()  
+7. [Plotting with Matplotlib and Seaborn]()  
+8.  [Introduction to Natural Language Text Processing]()  
+9.  [Web scraping with Beautiful Soup]()  
 
 **My past Python workshop instructors:**
 
