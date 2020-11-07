@@ -10,17 +10,16 @@ The **aim** of this repository is to chronicle and share my own Python learning 
 
 ![](https://github.com/erikaduan/Introduction-to-Python/blob/master/02_figures/readme.jpg)  
 
-**Python notebooks**  
+# Python notebooks  
 
 1. [Introduction to Jupyter notebook and Python primitive types](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/00_Jupyter-notebook-and-Python-primitive-types.ipynb)  
-2. [Python data structures](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/01_Python-data-structures.ipynb)  
-3. [Introduction to Pandas DataFrames](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/02_Introduction-to-pandas.ipynb)  
-4. [If and while statements]  
-5. [For loops]  
-6. [Writing functions and error handling]  
-7. [Plotting with Matplotlib and Seaborn]  
-8.  [Introduction to Natural Language Text Processing]  
-9.  [Web scraping with Beautiful Soup]  
+2. [Conditions and if and while statements]()  
+3. [Writing functions and error handling]  
+4. [Python data structures](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/03_Python-data-structures.ipynb)  
+5. [Manipulating Pandas DataFrames]  
+6. [Plotting with Matplotlib and Seaborn]  
+7. [Introduction to Natural Language Text Processing]  
+8. [Web scraping with Beautiful Soup]  
 
 **My past Python workshop instructors:**
 
