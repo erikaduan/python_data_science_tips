@@ -13,8 +13,8 @@ The **aim** of this repository is to chronicle and share my own Python learning 
 # Python notebooks  
 
 1. [Introduction to Jupyter notebook and Python primitive types](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/00_Jupyter-notebook-and-Python-primitive-types.ipynb)  
-2. [Conditions and if and while statements]()  
-3. [Writing functions and error handling]  
+2. [Writing conditions and if and while statements](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/01_Writing-conditions-and-for-and-while-loops-in-Python.ipynb)  
+3. [Writing functions and error handling](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/02_Writing-functions-in-Python.ipynb)  
 4. [Python data structures](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/03_Python-data-structures.ipynb)  
 5. [Manipulating Pandas DataFrames]  
 6. [Plotting with Matplotlib and Seaborn]  
