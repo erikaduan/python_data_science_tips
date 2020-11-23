@@ -1,0 +1,513 @@
+ID,School_Number,School_Name,Suburb,Post_Code,Type_of_Schooling,Index_of_Educational_Disadvantage,Latitude,Longitude
+1,536,Aberfoyle Hub R-7 School,Aberfoyle Park,5159,Primary Education,6,-35.078139,138.595142
+2,1673,Aberfoyle Park High School,Aberfoyle Park,5159,Secondary Education,6,-35.074007,138.594181
+3,1919,Adelaide Botanic High School,Adelaide,5000,Secondary Education,7,-34.917055,138.606743
+4,997,Adelaide East Education Centre,Paradise,5075,Special Education,6,-34.873042,138.672971
+5,768,Adelaide High School,Adelaide,5000,Secondary Education,5,-34.925733,138.586678
+6,476,Adelaide North Special School,Munno Para,5115,Special Education,3,-34.663577,138.684948
+7,1686,Adelaide Secondary School of English,West Croydon,5008,Secondary Education,2,-34.886834,138.565419
+8,1414,Adelaide West Special Education Ctr,Taperoo,5017,Special Education,5,-34.801247,138.494073
+9,980,Airdale Primary School,Port Pirie,5540,Primary Education,1,-33.200389,137.990033
+10,202,Alberton Primary School,Queenstown,5014,Primary Education,3,-34.862679,138.512645
+11,210,Aldgate Primary School,Aldgate,5154,Primary Education,7,-35.019502,138.748939
+12,222,Aldinga Beach B-7 School,Aldinga,5173,Primary Education,4,-35.269294,138.461896
+13,473,Allenby Gardens Primary School,Allenby Gardens,5009,Primary Education,5,-34.902081,138.554563
+14,751,Allendale East Area School,Allendale East,5291,Primary/Secondary Combined,5,-38.002525,140.711276
+15,1001,Amata Anangu School,Amata,872,Aboriginal/Anangu Schools,1,-26.151709,131.147712
+16,509,Andamooka Primary School,Andamooka,5722,Primary Education,2,-30.448801,137.167593
+17,242,Angaston Primary School,Angaston,5353,Primary Education,6,-34.499092,139.050833
+18,255,Angle Vale Primary School,Angle Vale,5117,Primary Education,5,-34.643346,138.647362
+19,732,Ardrossan Area School,Ardrossan,5571,Primary/Secondary Combined,4,-34.423756,137.91592
+20,1540,Ardtornish Primary School,St Agnes,5097,Primary Education,6,-34.833595,138.704599
+21,340,Ascot Park Primary School,Park Holme,5043,Primary Education,3,-34.990774,138.554376
+22,419,Athelstone School,Athelstone,5076,Primary Education,7,-34.867392,138.699416
+23,425,Auburn Primary School,Auburn,5451,Primary Education,6,-34.027583,138.680973
+24,990,Augusta Park Primary School,Port Augusta,5700,Primary Education,1,-32.495595,137.784949
+25,1800,Australian Science & Mathematics Sch,Bedford Park,5042,Secondary Education,5,-35.018843,138.574657
+26,906,Avenues College,Windsor Gardens,5087,Primary/Secondary Combined,3,-34.860757,138.657925
+27,769,Balaklava High School,Balaklava,5461,Secondary Education,4,-34.1503,138.41511
+28,477,Balaklava Primary School,Balaklava,5461,Primary Education,4,-34.151438,138.416488
+29,1117,Banksia Park International HS,Banksia Park,5091,Secondary Education,6,-34.814401,138.726168
+30,1015,Banksia Park School R-7,Banksia Park,5091,Primary Education,6,-34.808854,138.72609
+31,506,Barmera Primary School,Barmera,5345,Primary Education,3,-34.25159,140.478058
+32,511,Basket Range Primary School,Basket Range,5138,Primary Education,7,-34.938619,138.765498
+33,519,Beachport Primary School,Beachport,5280,Primary Education,6,-37.475436,140.009715
+34,524,Belair Primary School,Belair,5052,Primary Education,7,-35.00488,138.625814
+35,1136,Bellevue Heights Primary School,Bellevue Heights,5050,Primary Education,6,-35.028955,138.588869
+36,532,Berri Primary School,Berri,5343,Primary Education,2,-34.279661,140.594112
+37,770,Birdwood High School,Birdwood,5234,Secondary Education,6,-34.819718,138.95963
+38,547,Birdwood Primary School,Birdwood,5234,Primary Education,7,-34.819718,138.95963
+39,548,Black Forest Primary School,Black Forest,5035,Primary Education,6,-34.960682,138.573308
+40,905,Blackwood High School,Eden Hills,5050,Secondary Education,7,-35.025087,138.607259
+41,565,Blackwood Primary School,Eden Hills,5050,Primary Education,7,-35.025087,138.607259
+42,1903,Blair Athol North School B-7,Blair Athol,5084,Primary Education,2,-34.852716,138.598872
+43,1854,Blakeview Primary School,Blakeview,5114,Primary Education,3,-34.687809,138.699956
+44,571,Blanchetown Primary School,Blanchetown,5357,Primary Education,4,-34.350655,139.61118
+45,586,Blyth Primary School,Blyth,5462,Primary Education,6,-33.844527,138.491087
+46,600,Booborowie Primary School,Booborowie,5417,Primary Education,4,-33.566079,138.759558
+47,771,Booleroo Centre District School,Booleroo Centre,5482,Primary/Secondary Combined,6,-32.877326,138.349525
+48,894,Bordertown High School,Bordertown,5268,Secondary Education,4,-36.312935,140.767516
+49,733,Bordertown Primary School,Bordertown,5268,Primary Education,5,-36.312935,140.767516
+50,1418,Bowden Brompton Community School,Brompton,5007,Primary/Secondary Combined,2,-34.895043,138.580071
+51,1163,Braeview School R-7,Happy Valley,5159,Primary Education,6,-35.080686,138.554101
+52,983,Brahma Lodge Primary School,Brahma Lodge,5109,Primary Education,2,-34.775528,138.650326
+53,636,Bridgewater Primary School,Bridgewater,5155,Primary Education,7,-35.004337,138.762645
+54,637,Brighton Primary School,Brighton,5048,Primary Education,6,-35.015974,138.526228
+55,803,Brighton Secondary School,North Brighton,5048,Secondary Education,6,-35.003619,138.519676
+56,752,Brinkworth Primary School,Brinkworth,5464,Primary Education,4,-33.687102,138.404569
+57,646,Brompton Primary School,Renown Park,5008,Primary Education,3,-34.894564,138.581612
+58,699,Burnside Primary School,Burnside,5066,Primary Education,7,-34.935601,138.661574
+59,1432,Burra Community School,Burra,5417,Primary/Secondary Combined,5,-33.677412,138.938652
+60,1844,Burton Primary School,Burton,5110,Primary Education,4,-34.741477,138.597764
+61,702,Bute Early Learning & Primary School,Bute,5560,Primary Education,4,-33.864926,138.003827
+62,704,Cadell Primary School,Cadell,5321,Primary Education,2,-34.05642,139.771652
+63,705,Callington Primary School,Callington,5254,Primary Education,5,-35.11362,139.039395
+64,747,Cambrai Primary School,Cambrai,5353,Primary Education,3,-34.652888,139.280966
+65,981,Carlton School,Port Augusta,5700,Aboriginal/Anangu Schools,1,-32.487975,137.776238
+66,734,Ceduna Area School,Ceduna,5690,Primary/Secondary Combined,3,-32.137676,133.671396
+67,761,Central Yorke School,Maitland,5573,Primary/Secondary Combined,2,-34.368261,137.673481
+68,714,Challa Gardens Primary School,Kilkenny,5009,Primary Education,2,-34.877562,138.555082
+69,1028,Charles Campbell College,Paradise,5075,Primary/Secondary Combined,5,-34.87403,138.674133
+70,1019,Christie Downs Primary School,Christie Downs,5164,Primary Education,2,-35.13242,138.494017
+71,1013,Christies Beach HS & Sth Voc College,Christie Downs,5164,Secondary Education,2,-35.136982,138.497694
+72,921,Christies Beach Primary School,Christies Beach,5165,Primary Education,2,-35.138009,138.479076
+73,952,Clapham Primary School,Clapham,5062,Primary Education,6,-34.993358,138.603502
+74,773,Clare High School,Clare,5453,Primary/Secondary Combined,5,-33.822384,138.596522
+75,719,Clare Primary School,Clare,5453,Primary Education,5,-33.840746,138.618052
+76,720,Clarendon Primary School,Clarendon,5157,Primary Education,7,-35.110275,138.632175
+77,753,Cleve Area School,Cleve,5640,Primary/Secondary Combined,6,-33.699647,136.497429
+78,932,Clovelly Park Primary School,Clovelly Park,5042,Primary Education,3,-34.998429,138.565416
+79,721,Cobdogla Primary School,Cobdogla,5346,Primary Education,4,-34.242439,140.406113
+80,723,Colonel Light Gardens Primary School,Colonel Light Gardens,5041,Primary Education,7,-34.986809,138.59544
+81,724,Compton Primary School,Suttontown,5291,Primary Education,5,-37.801357,140.728606
+82,920,Coober Pedy Area School,Coober Pedy,5723,Primary/Secondary Combined,2,-29.012416,134.752049
+83,729,Coomandook Area School,Coomandook,5261,Primary/Secondary Combined,5,-35.47536,139.70583
+84,730,Coonalpyn Primary School,Coonalpyn,5265,Primary Education,5,-35.698735,139.852091
+85,323,Coorara Primary School,Morphett Vale,5162,Primary Education,3,-35.131326,138.542009
+86,104,Coromandel Valley Primary School,Coromandel Valley,5051,Primary Education,7,-35.033562,138.626758
+87,106,Cowandilla Primary School,Cowandilla,5033,Primary Education,4,-34.93416,138.559877
+88,735,Cowell Area School,Cowell,5602,Primary/Secondary Combined,5,-33.683646,136.918203
+89,107,Crafers Primary School,Crafers,5152,Primary Education,7,-34.993387,138.71348
+90,1226,Craigburn Primary School,Flagstaff Hill,5159,Primary Education,7,-35.056187,138.615495
+91,976,Craigmore High School,Blakeview,5114,Secondary Education,2,-34.69116,138.701176
+92,1449,Craigmore South Primary School,Craigmore,5114,Primary Education,2,-34.70978,138.706148
+93,111,Crystal Brook Primary School,Crystal Brook,5523,Primary Education,5,-33.352948,138.213543
+94,754,Cummins Area School,Cummins,5631,Primary/Secondary Combined,7,-34.263356,135.72233
+95,114,Curramulka Primary School,Curramulka,5580,Primary Education,5,-34.696257,137.713037
+96,666,Darlington Primary School,Seacombe Gardens,5047,Primary Education,2,-35.027204,138.546916
+97,982,Dernancourt School R-7,Dernancourt,5075,Primary Education,5,-34.861164,138.673148
+98,1036,East Adelaide School,St Peters,5069,Primary Education,7,-34.90564,138.627346
+99,1043,East Marden Primary School,Campbelltown,5074,Primary Education,6,-34.881964,138.65353
+100,1134,East Para Primary School,Para Hills,5096,Primary Education,5,-34.81765,138.666078
+101,971,East Torrens Primary School,Hectorville,5073,Primary Education,3,-34.889946,138.666334
+102,1884,Eastern Fleurieu R-12 School,Strathalbyn,5255,Primary/Secondary Combined,6,-35.258107,138.902172
+103,123,Echunga Primary School,Echunga,5153,Primary Education,7,-35.097706,138.79085
+104,124,Eden Hills Primary School,Eden Hills,5050,Primary Education,7,-35.020546,138.595317
+105,1030,Edward John Eyre High School,Whyalla Norrie,5608,Secondary Education,2,-33.026208,137.540961
+106,127,Edwardstown Primary School,Melrose Park,5039,Primary Education,6,-34.978729,138.57801
+107,947,Elizabeth Downs Primary School,Elizabeth Downs,5113,Primary Education,1,-34.698783,138.69474
+108,943,Elizabeth East Primary School,Elizabeth East,5112,Primary Education,2,-34.725069,138.677471
+109,897,Elizabeth Grove Primary School,Elizabeth Grove,5112,Primary Education,1,-34.73263,138.67034
+110,825,Elizabeth North Primary School,Elizabeth North,5113,Primary Education,2,-34.703341,138.674156
+111,948,Elizabeth Park Primary School,Elizabeth Park,5113,Primary Education,2,-34.712946,138.684899
+112,688,Elizabeth South Primary School,Elizabeth South,5112,Primary Education,1,-34.730502,138.661118
+113,949,Elizabeth Vale Primary School,Elizabeth Vale,5112,Primary Education,1,-34.746118,138.669137
+114,128,Elliston Area School,Elliston,5670,Primary/Secondary Combined,5,-33.644153,134.892451
+115,660,Enfield Primary School,Enfield,5085,Primary Education,2,-34.865172,138.603431
+116,1034,Ernabella Anangu School,Ernabella,872,Aboriginal/Anangu Schools,1,-26.283843,132.13524
+117,1415,Errington Special Education Centre,Plympton,5038,Special Education,6,-34.962459,138.548514
+118,755,Eudunda Area School,Eudunda,5374,Primary/Secondary Combined,3,-34.181019,139.091242
+119,142,Evanston Gardens Primary School,Evanston Gardens,5116,Primary Education,3,-34.624606,138.718986
+120,1103,Fairview Park Primary School,Fairview Park,5126,Primary Education,6,-34.797794,138.731846
+121,1228,Felixstow Community School,Felixstow,5070,Primary Education,5,-34.892516,138.644709
+122,805,Findon High School,Findon,5023,Secondary Education,3,-34.898332,138.526613
+123,968,Fisk Street Primary School,Whyalla Norrie,5608,Primary Education,1,-33.016958,137.533218
+124,1018,Flagstaff Hill R-7 School,Flagstaff Hill,5159,Primary Education,7,-35.04944,138.589485
+125,1142,Flaxmill School P-7,Morphett Vale,5162,Primary Education,3,-35.127831,138.519309
+126,135,Flinders Park Primary School,Flinders Park,5025,Primary Education,4,-34.911103,138.54754
+127,1396,Flinders View Primary School,Port Augusta West,5700,Primary Education,1,-32.472843,137.753921
+128,658,Forbes Primary School,South Plympton,5038,Primary Education,4,-34.978139,138.557598
+129,138,Frances Primary School,Frances,5262,Primary Education,7,-36.708483,140.956465
+130,1382,Fraser Park Primary School,Murray Bridge,5253,Primary Education,1,-35.140404,139.281525
+131,139,Freeling Primary School,Freeling,5372,Primary Education,6,-34.457842,138.811414
+132,1196,Fregon Anangu School,Fregon,872,Aboriginal/Anangu Schools,1,-26.765131,132.028295
+133,934,Fulham Gardens Primary School,Henley Beach,5022,Primary Education,5,-34.912392,138.503289
+134,1166,Fulham North Primary School,Henley Beach,5022,Primary Education,6,-34.919552,138.505142
+135,774,Gawler and District College B-12,Evanston,5116,Primary/Secondary Combined,4,-34.619476,138.736184
+136,1008,Gawler East Primary School,Gawler East,5118,Primary Education,5,-34.598085,138.761294
+137,141,Gawler Primary School,Gawler,5118,Primary Education,4,-34.597541,138.740692
+138,145,Geranium Primary School,Geranium,5301,Primary Education,7,-35.379183,140.160086
+139,120,Gilles Street Primary School,Adelaide,5000,Primary Education,4,-34.93449,138.604464
+140,775,Gladstone High School,Gladstone,5473,Secondary Education,4,-33.275577,138.35211
+141,147,Gladstone Primary School,Gladstone,5473,Primary Education,3,-33.266137,138.350584
+142,152,Glen Osmond Primary School,Myrtle Bank,5064,Primary Education,7,-34.957051,138.637255
+143,148,Glenburnie Primary School,Glenburnie,5291,Primary Education,5,-37.84041,140.863876
+144,1217,Glencoe Central Primary School,Glencoe,5291,Primary Education,6,-37.669641,140.594383
+145,1017,Glenelg Primary School,Glenelg East,5045,Primary Education,6,-34.984803,138.521418
+146,927,Glenunga International High School,Glenunga,5064,Secondary Education,7,-34.949336,138.635192
+147,776,Glossop High School,Glossop,5344,Secondary Education,3,-34.2748,140.535148
+148,153,Glossop Primary Community School K-7,Glossop,5344,Primary Education,2,-34.271342,140.524768
+149,1834,Golden Grove High School,Golden Grove,5125,Secondary Education,5,-34.792874,138.696789
+150,1848,Golden Grove Primary School,Golden Grove,5125,Primary Education,6,-34.786332,138.708915
+151,156,Goodwood Primary School,Goodwood,5034,Primary Education,7,-34.951478,138.588905
+152,157,Goolwa Primary School,Goolwa,5214,Primary Education,4,-35.497553,138.780252
+153,1645,Gordon Education Centre,Mount Gambier,5290,Special Education,3,-37.825123,140.768224
+154,1022,Grange Primary School,Grange,5022,Primary Education,6,-34.903495,138.497089
+155,928,Grant High School,Mount Gambier,5290,Secondary Education,3,-37.84719,140.796014
+156,160,Greenock Primary School,Greenock,5360,Primary Education,6,-34.459939,138.921793
+157,1858,Greenwith Primary School,Greenwith,5125,Primary Education,6,-34.77021,138.720617
+158,1201,Gulfview Heights Primary School,Gulfview Heights,5096,Primary Education,5,-34.792078,138.668666
+159,162,Gumeracha Primary School,Gumeracha,5233,Primary Education,6,-34.824981,138.880956
+160,1066,Hackham East Primary School,Hackham,5163,Primary Education,3,-35.140077,138.534755
+161,1131,Hackham West R-7 School,Hackham West,5163,Primary Education,1,-35.144159,138.517588
+162,163,Hahndorf Primary School,Hahndorf,5245,Primary Education,7,-35.027474,138.810676
+163,1053,Hallett Cove East Primary School,Hallett Cove,5158,Primary Education,7,-35.071138,138.517181
+164,640,Hallett Cove School,Hallett Cove,5158,Primary/Secondary Combined,6,-35.075965,138.511116
+165,1054,Hallett Cove South Primary School,Hallett Cove,5158,Primary Education,5,-35.082581,138.503953
+166,823,Hamilton Secondary College,Mitchell Park,5043,Secondary Education,3,-34.99837,138.560781
+167,167,Hamley Bridge Primary School,Hamley Bridge,5401,Primary Education,4,-34.354776,138.684713
+168,689,Hampstead Primary School,Greenacres,5086,Primary Education,2,-34.870813,138.625981
+169,171,Happy Valley Primary School,Happy Valley,5159,Primary Education,6,-35.086923,138.583583
+170,175,Hawker Area School,Hawker,5434,Primary/Secondary Combined,3,-31.89042,138.427892
+171,972,Hawthorndene Primary School,Hawthorndene,5051,Primary Education,7,-35.020774,138.636088
+172,926,Heathfield High School,Heathfield,5153,Secondary Education,7,-35.020536,138.712609
+173,176,Heathfield Primary School,Heathfield,5153,Primary Education,7,-35.029961,138.727279
+174,670,Hendon Primary School,Royal Park,5014,Primary Education,3,-34.877824,138.510886
+175,177,Henley Beach Primary School,Henley Beach South,5022,Primary Education,6,-34.929734,138.499429
+176,809,Henley High School,Henley Beach,5022,Secondary Education,5,-34.923383,138.500356
+177,1876,Hewett Primary School,Hewett,5118,Primary Education,6,-34.575557,138.750309
+178,596,Highbury Primary School,Hope Valley,5090,Primary Education,6,-34.847954,138.709995
+179,1063,Highgate School,Highgate,5063,Primary Education,7,-34.962788,138.622561
+180,665,Hillcrest Primary School,Hillcrest,5086,Primary Education,5,-34.866383,138.638678
+181,938,Hincks Avenue Primary School,Whyalla Norrie,5608,Primary Education,1,-33.018515,137.544825
+182,1067,Huntfield Heights School P-7,Huntfield Heights,5163,Primary Education,2,-35.153156,138.516924
+183,1174,Indulkana Anangu School,Indulkana,872,Aboriginal/Anangu Schools,1,-26.965604,133.310547
+184,925,Ingle Farm East Primary School,Ingle Farm,5098,Primary Education,4,-34.833826,138.651948
+185,1162,Ingle Farm Primary School,Ingle Farm,5098,Primary Education,2,-34.827631,138.643207
+186,777,Jamestown Community School,Jamestown,5491,Primary/Secondary Combined,6,-33.204904,138.609566
+187,194,Jervois Primary School,Jervois,5259,Primary Education,4,-35.266177,139.437094
+188,1901,John Hartley School (B-7),Smithfield Plains,5114,Primary Education,2,-34.680413,138.673586
+189,792,John Pirie Secondary School,Port Pirie,5540,Secondary Education,2,-33.183024,138.010153
+190,778,Kadina Memorial School,Kadina,5554,Primary/Secondary Combined,4,-33.960031,137.71013
+191,197,Kalangadoo Primary School,Kalangadoo,5278,Primary Education,2,-37.564684,140.695568
+192,198,Kangarilla Primary School,Kangarilla,5157,Primary Education,6,-35.147815,138.659484
+193,957,Kangaroo Inn Area School,Kangaroo Inn,5280,Primary/Secondary Combined,6,-37.337672,140.244361
+194,1882,Kangaroo Island Community Education,Kingscote,5223,Primary/Secondary Combined,6,-35.650387,137.633343
+195,779,Kapunda High School,Kapunda,5373,Secondary Education,5,-34.332945,138.910495
+196,200,Kapunda Primary School,Kapunda,5373,Primary Education,5,-34.337884,138.918053
+197,1123,Karcultaby Area School,Karcultaby,5654,Primary/Secondary Combined,6,-32.760589,134.973839
+198,756,Karoonda Area School,Karoonda,5307,Primary/Secondary Combined,6,-35.092167,139.89422
+199,1135,Karrendi Primary School,Parafield Gardens,5107,Primary Education,2,-34.790544,138.618502
+200,1792,Kaurna Plains School,Elizabeth,5112,Aboriginal/Anangu Schools,1,-34.725693,138.664561
+201,757,Keith Area School,Keith,5267,Primary/Secondary Combined,6,-36.099603,140.351249
+202,1847,Keithcot Farm Primary School,Wynn Vale,5127,Primary Education,6,-34.800056,138.676961
+203,632,Keller Road Primary School,Salisbury East,5109,Primary Education,2,-34.792341,138.656283
+204,1696,Kenmore Park Anangu School,Kenmore Park,872,Aboriginal/Anangu Schools,1,-26.326899,132.446178
+205,204,Kersbrook Primary School,Kersbrook,5231,Primary Education,7,-34.782369,138.849721
+206,205,Keyneton Primary School,Keyneton,5353,Primary Education,6,-34.554333,139.1338
+207,996,Kidman Park Primary School,Kidman Park,5025,Primary Education,5,-34.912517,138.52471
+208,207,Kilkenny Primary School,West Croydon,5008,Primary Education,4,-34.890875,138.552927
+209,1372,Kilparrin Tch & Assessment Sch & Ser,Park Holme,5043,Special Education,6,-34.991038,138.555292
+210,736,Kimba Area School,Kimba,5641,Primary/Secondary Combined,7,-33.135605,136.419417
+211,737,Kingston Community School,Kingston SE,5275,Primary/Secondary Combined,5,-36.836572,139.857517
+212,209,Kingston-on-Murray Primary School,Kingston on Murray,5331,Primary Education,4,-34.222619,140.346866
+213,899,Kirton Point Primary School,Port Lincoln,5606,Primary Education,2,-34.731891,135.868237
+214,898,Klemzig Primary School,Klemzig,5087,Primary Education,4,-34.877176,138.637665
+215,211,Kongorong Primary School,Kongorong,5291,Primary Education,6,-37.902247,140.561148
+216,212,Koolunga Primary School,Koolunga,5464,Primary Education,5,-33.580835,138.335026
+217,1003,Koonibba Aboriginal School,Koonibba,5690,Aboriginal/Anangu Schools,1,-31.901766,133.424683
+218,563,Lake Wangary School,Wangary,5607,Primary Education,4,-34.550294,135.479343
+219,1908,Lake Windemere B-7 School,Salisbury North,5108,Primary Education,2,-34.740265,138.619702
+220,759,Lameroo Regional Community School,Lameroo,5302,Primary/Secondary Combined,6,-35.331434,140.522579
+221,219,Largs Bay School,Largs Bay,5016,Primary Education,5,-34.823666,138.494282
+222,220,Laura Primary School,Laura,5480,Primary Education,5,-33.187073,138.303714
+223,814,Le Fevre High School,Semaphore South,5019,Secondary Education,2,-34.845622,138.484995
+224,221,Le Fevre Peninsula Primary School,Birkenhead,5015,Primary Education,4,-34.840072,138.495412
+225,748,Leigh Creek Area School,Leigh Creek,5731,Primary/Secondary Combined,1,-30.592851,138.401496
+226,136,Lenswood Primary School,Lenswood,5240,Primary Education,7,-34.922274,138.823468
+227,223,Light Pass Primary School,Light Pass,5355,Primary Education,6,-34.46919,139.025019
+228,1158,Lincoln Gardens Primary School,Port Lincoln,5606,Primary Education,1,-34.741991,135.847525
+229,647,Linden Park Primary School,Linden Park,5065,Primary Education,7,-34.94781,138.645603
+230,225,Littlehampton Primary School,Littlehampton,5250,Primary Education,7,-35.049417,138.868095
+231,227,Lobethal Primary School,Lobethal,5241,Primary Education,6,-34.901735,138.871761
+232,230,Lock Area School,Lock,5633,Primary/Secondary Combined,6,-33.567298,135.754637
+233,911,Lockleys North Primary School,Lockleys,5032,Primary Education,6,-34.920591,138.537668
+234,231,Lockleys Primary School,Brooklyn Park,5032,Primary Education,4,-34.930203,138.535095
+235,1133,Long Street Primary School,Whyalla Norrie,5608,Primary Education,2,-33.038921,137.533009
+236,1098,Lonsdale Heights Primary School,Christie Downs,5164,Primary Education,2,-35.124772,138.501556
+237,895,Loxton High School,Loxton,5333,Secondary Education,4,-34.443053,140.585017
+238,678,Loxton North School,Loxton North,5333,Primary Education,4,-34.413133,140.624328
+239,760,Loxton Primary School,Loxton,5333,Primary Education,4,-34.451324,140.567155
+240,749,Lucindale Area School,Lucindale,5272,Primary/Secondary Combined,6,-36.964206,140.370633
+241,237,Lyndoch Primary School,Lyndoch,5351,Primary Education,6,-34.60554,138.885678
+242,239,Macclesfield Primary School,Macclesfield,5153,Primary Education,6,-35.171315,138.83847
+243,649,Madison Park School,Salisbury East,5109,Primary Education,3,-34.783863,138.662355
+244,1213,Magill School,Magill,5072,Primary Education,7,-34.91362,138.676746
+245,241,Mallala Primary School,Mallala,5502,Primary Education,5,-34.43456,138.510526
+246,1170,Mannum Community College,Mannum,5238,Primary/Secondary Combined,3,-34.912544,139.303495
+247,245,Manoora Primary School,Manoora,5414,Primary Education,5,-34.006284,138.814121
+248,583,Marden Senior College,Marden,5070,Secondary Education,2,-34.891954,138.63523
+249,993,Marion Primary School,Marion,5043,Primary Education,4,-35.00386,138.555218
+250,1900,Mark Oliphant College (B-12),Munno Para,5115,Primary/Secondary Combined,2,-34.665475,138.683575
+251,248,Marree Aboriginal School,Marree,5733,Aboriginal/Anangu Schools,1,-29.649185,138.061054
+252,817,Marryatville High School,Marryatville,5068,Secondary Education,6,-34.928185,138.645753
+253,249,Marryatville Primary School,Kensington,5068,Primary Education,7,-34.924542,138.649185
+254,987,Mawson Lakes School,Mawson Lakes,5095,Primary Education,6,-34.809171,138.61436
+255,1021,McDonald Park School,Mount Gambier,5290,Primary Education,4,-37.825702,140.793167
+256,250,McLaren Flat Primary School,McLaren Flat,5171,Primary Education,7,-35.206513,138.587256
+257,251,McLaren Vale Primary School,McLaren Vale,5171,Primary Education,6,-35.211655,138.531438
+258,252,Meadows Primary School,Meadows,5201,Primary Education,7,-35.180498,138.761924
+259,1020,Melaleuca Park Primary School,Mount Gambier,5290,Primary Education,1,-37.83974,140.79438
+260,253,Melrose Primary School,Melrose,5483,Primary Education,7,-32.823816,138.187871
+261,479,Memorial Oval Primary School,Whyalla,5600,Primary Education,3,-33.033445,137.568711
+262,750,Meningie Area School,Meningie,5264,Primary/Secondary Combined,2,-35.682635,139.342158
+263,214,Mid North Education Centre,Port Pirie,5540,Special Education,2,-33.17503,138.005415
+264,265,Mil Lel Primary School,Mil-Lel,5291,Primary Education,6,-37.781125,140.825631
+265,780,Millicent High School,Millicent,5280,Secondary Education,2,-37.590971,140.358711
+266,605,Millicent North Primary School,Millicent,5280,Primary Education,3,-37.592968,140.343376
+267,1121,Miltaburra Area School,Wirrulla,5661,Primary/Secondary Combined,6,-32.375617,134.33113
+268,1527,Mimili Anangu School,Mimili,872,Aboriginal/Anangu Schools,1,-27.006196,132.70862
+269,781,Minlaton District School,Minlaton,5575,Primary/Secondary Combined,5,-34.765873,137.593581
+270,903,Mitcham Girls High School,Kingswood,5062,Secondary Education,6,-34.969865,138.610036
+271,270,Mitcham Primary School,Kingswood,5062,Primary Education,7,-34.972708,138.616124
+272,1071,Moana Primary School,Seaford,5169,Primary Education,5,-35.191836,138.474624
+273,964,Modbury High School,Modbury,5092,Secondary Education,5,-34.836789,138.697008
+274,272,Modbury School Preschool to Year 7,Modbury North,5092,Primary Education,4,-34.825869,138.69228
+275,1047,Modbury South Primary School,Hope Valley,5090,Primary Education,5,-34.840321,138.697193
+276,1405,Modbury Special School,Hope Valley,5090,Special Education,5,-34.840321,138.697193
+277,1210,Modbury West School,Modbury,5092,Primary Education,5,-34.833194,138.676764
+278,274,Monash Primary and Preschool,Monash,5342,Primary Education,5,-34.236306,140.559419
+279,1488,Moonta Area School,Moonta,5558,Primary/Secondary Combined,4,-34.070885,137.59135
+280,279,Moorak Primary School,Moorak,5291,Primary Education,5,-37.864704,140.73694
+281,280,Moorook Primary School,Moorook,5332,Primary Education,4,-34.276231,140.351142
+282,282,Morgan Primary School,Morgan,5320,Primary Education,2,-34.030239,139.670103
+283,1188,Morphett Vale East School R-7,Morphett Vale,5162,Primary Education,3,-35.121601,138.530921
+284,1906,Morphett Vale Primary School,Morphett Vale,5162,Primary Education,4,-35.107523,138.514358
+285,783,Mount Barker High School,Mount Barker,5251,Secondary Education,5,-35.074991,138.85705
+286,285,Mount Barker Primary School,Mount Barker,5251,Primary Education,6,-35.067641,138.853522
+287,1539,Mount Barker South Primary School,Mount Barker,5251,Primary Education,5,-35.080093,138.859874
+288,288,Mount Burr Primary School,Mount Burr,5279,Primary Education,4,-37.541193,140.4591
+289,289,Mount Compass Area School,Mount Compass,5210,Primary/Secondary Combined,6,-35.350245,138.619809
+290,784,Mount Gambier High School,Mount Gambier,5290,Secondary Education,3,-37.826147,140.765689
+291,953,Mount Gambier North Primary School,Mount Gambier,5290,Primary Education,2,-37.81683,140.775534
+292,293,Mount Pleasant Primary School,Mount Pleasant,5235,Primary Education,5,-34.774374,139.053842
+293,1650,Mulga Street Primary School,Mount Gambier,5290,Primary Education,3,-37.811663,140.759988
+294,297,Mundulla Primary School,Mundulla,5270,Primary Education,6,-36.357628,140.693069
+295,1482,Munno Para Primary School,Munno Para,5115,Primary Education,2,-34.669727,138.699713
+296,1859,Murputja Anangu School,Murputja Homelands,872,Aboriginal/Anangu Schools,1,-26.159352,130.183455
+297,785,Murray Bridge High School,Murray Bridge,5253,Secondary Education,2,-35.135051,139.285294
+298,299,Murray Bridge North School,Murray Bridge,5253,Primary Education,2,-35.115818,139.26955
+299,950,Murray Bridge South Primary School,Murray Bridge,5253,Primary Education,1,-35.132254,139.282374
+300,116,Murray Bridge Special School,Murray Bridge,5253,Special Education,3,-35.115818,139.26955
+301,301,Mylor Primary School,Mylor,5153,Primary Education,7,-35.040998,138.760099
+302,302,Mypolonga Primary School,Mypolonga,5254,Primary Education,5,-35.040591,139.357523
+303,303,Myponga Primary School,Myponga,5202,Primary Education,5,-35.392678,138.464453
+304,305,Nailsworth Primary School,Nailsworth,5083,Primary Education,6,-34.88242,138.603752
+305,306,Nairne Primary School,Nairne,5252,Primary Education,7,-35.038365,138.903587
+306,592,Nangwarry Primary School,Nangwarry,5277,Primary Education,2,-37.541501,140.818328
+307,308,Napperby Primary School,Napperby,5540,Primary Education,3,-33.153613,138.113718
+308,786,Naracoorte High School,Naracoorte,5271,Secondary Education,4,-36.948548,140.726873
+309,309,Naracoorte Primary School,Naracoorte,5271,Primary Education,5,-36.951082,140.738119
+310,936,Naracoorte South Primary School,Naracoorte,5271,Primary Education,4,-36.97269,140.746742
+311,970,Newbery Park Primary School,Millicent,5280,Primary Education,2,-37.608624,140.363491
+312,677,Nicolson Avenue Primary School,Whyalla Norrie,5608,Primary Education,2,-33.029095,137.549705
+313,1068,Noarlunga Downs Primary School,Noarlunga Downs,5168,Primary Education,2,-35.150105,138.496303
+314,179,North Adelaide Primary School,North Adelaide,5006,Primary Education,7,-34.905096,138.597558
+315,1375,North Haven School,North Haven,5018,Primary Education,5,-34.790385,138.497563
+316,1183,North Ingle School,Ingle Farm,5098,Primary Education,4,-34.819255,138.64517
+317,1012,Northern Adelaide Senior College,Elizabeth,5112,Secondary Education,2,-34.713319,138.669144
+318,314,Northfield Primary School,Northfield,5085,Primary Education,3,-34.848975,138.619862
+319,316,Norton Summit Primary School,Norton Summit,5136,Primary Education,7,-34.927695,138.728837
+320,787,Norwood Morialta High School,Magill,5072,Secondary Education,6,-34.918101,138.672233
+321,131,Norwood Primary School,Norwood,5067,Primary Education,7,-34.918748,138.631451
+322,788,Nuriootpa High School,Nuriootpa,5355,Secondary Education,5,-34.466434,139.000529
+323,318,Nuriootpa Primary School,Nuriootpa,5355,Primary Education,5,-34.472908,139.001322
+324,1060,O'Sullivan Beach Primary School,O'Sullivan Beach,5166,Primary Education,2,-35.125399,138.479637
+325,1009,Oak Valley Aboriginal School,Oak Valley,5690,Aboriginal/Anangu Schools,1,-29.402427,130.738295
+326,762,Oakbank Area School,Oakbank,5243,Primary/Secondary Combined,6,-34.988726,138.837232
+327,908,Ocean View P-12 College,Taperoo,5017,Primary/Secondary Combined,2,-34.804191,138.4954
+328,313,Old Noarlunga Primary School,Old Noarlunga,5168,Primary Education,5,-35.182997,138.500633
+329,322,One Tree Hill Primary School,One Tree Hill,5114,Primary Education,5,-34.713273,138.766521
+330,324,Oodnadatta Aboriginal School,Oodnadatta,5734,Aboriginal/Anangu Schools,1,-27.548502,135.445814
+331,849,Open Access College,Marden,5070,Primary/Secondary Combined,5,-34.891954,138.63523
+332,740,Orroroo Area School,Orroroo,5431,Primary/Secondary Combined,6,-32.728505,138.612211
+333,325,Owen Primary School,Owen,5460,Primary Education,5,-34.271694,138.542951
+334,593,Padthaway Primary School,Padthaway,5271,Primary Education,6,-36.593103,140.496881
+335,326,Palmer Primary School,Palmer,5237,Primary Education,3,-34.853574,139.161721
+336,574,Para Hills High School,Para Hills West,5096,Secondary Education,2,-34.799266,138.650711
+337,935,Para Hills School P-7,Para Hills,5096,Primary Education,4,-34.812358,138.653129
+338,1045,Para Hills West Primary School,Para Hills West,5096,Primary Education,3,-34.800635,138.652771
+339,1048,Para Vista Primary School,Para Vista,5093,Primary Education,4,-34.830178,138.662895
+340,327,Paracombe Primary School,Paracombe,5132,Primary Education,7,-34.851674,138.781984
+341,973,Paradise Primary School,Paradise,5075,Primary Education,5,-34.870802,138.68457
+342,1137,Parafield Gardens High School,Parafield Gardens,5107,Secondary Education,3,-34.786022,138.618914
+343,537,Parafield Gardens R-7 School,Parafield Gardens,5107,Primary Education,3,-34.785192,138.616383
+344,1099,Paralowie School,Paralowie,5108,Primary/Secondary Combined,2,-34.753384,138.621393
+345,668,Paringa Park Primary School,North Brighton,5048,Primary Education,7,-35.002543,138.525628
+346,328,Parkside Primary School,Parkside,5063,Primary Education,7,-34.944657,138.620087
+347,337,Pennington School R-7,Pennington,5013,Primary Education,2,-34.857424,138.53236
+348,931,Penola High School,Penola,5277,Secondary Education,4,-37.373662,140.843789
+349,763,Penola Primary School,Penola,5277,Primary Education,5,-37.379147,140.833229
+350,338,Penong Primary School,Penong,5690,Primary Education,2,-31.928614,133.005406
+351,789,Peterborough High School,Peterborough,5422,Secondary Education,2,-32.9787,138.836212
+352,339,Peterborough Primary School,Peterborough,5422,Primary Education,2,-32.971085,138.832375
+353,1059,Pimpala Primary School,Morphett Vale,5162,Primary Education,4,-35.112846,138.530333
+354,764,Pinnaroo Primary School,Pinnaroo,5304,Primary Education,6,-35.255862,140.907922
+355,1526,Pipalyatjara Anangu School,Pipalyatjara,872,Aboriginal/Anangu Schools,1,-26.162549,129.172118
+356,910,Playford International College,Elizabeth,5112,Secondary Education,1,-34.723738,138.665902
+357,1879,Playford Primary School,Craigmore,5114,Primary Education,4,-34.689694,138.712988
+358,907,Plympton International College,Plympton,5038,Primary/Secondary Combined,4,-34.964442,138.547829
+359,346,Plympton Primary School,Plympton,5038,Primary Education,5,-34.9612,138.556819
+360,351,Poonindie Community Learning Centre,Poonindie,5607,Primary Education,4,-34.580807,135.881095
+361,352,Pooraka Primary School,Pooraka,5095,Primary Education,3,-34.833519,138.613108
+362,790,Port Augusta Secondary School,Port Augusta,5700,Secondary Education,2,-32.493756,137.768758
+363,1399,Port Augusta Special School,Port Augusta West,5700,Special Education,1,-32.47275,137.752157
+364,355,Port Augusta West Primary School,Port Augusta West,5700,Primary Education,4,-32.483205,137.754202
+365,741,Port Broughton Area School,Port Broughton,5522,Primary/Secondary Combined,5,-33.604039,137.933111
+366,356,Port Elliot Primary School,Port Elliot,5212,Primary Education,5,-35.523024,138.677243
+367,791,Port Lincoln High School,Port Lincoln,5606,Secondary Education,3,-34.723847,135.853942
+368,1277,Port Lincoln Junior Primary School,Port Lincoln,5606,Primary Education,3,-34.724303,135.857806
+369,359,Port Lincoln Primary School,Port Lincoln,5606,Primary Education,3,-34.723909,135.857158
+370,1801,Port Lincoln Special School,Port Lincoln,5606,Special Education,3,-34.741941,135.846117
+371,361,Port Neill Primary School,Port Neill,5604,Primary Education,3,-34.116548,136.342001
+372,362,Port Noarlunga Primary School,Port Noarlunga,5167,Primary Education,5,-35.143866,138.473063
+373,363,Port Pirie West Primary School,Port Pirie,5540,Primary Education,2,-33.181868,138.002596
+374,366,Port Wakefield Primary School,Port Wakefield,5550,Primary Education,2,-34.187379,138.149302
+375,570,Prospect North Primary School,Prospect,5082,Primary Education,3,-34.874886,138.597054
+376,368,Prospect Primary School,Prospect,5082,Primary Education,6,-34.884916,138.59012
+377,793,Quorn Area School,Quorn,5433,Primary/Secondary Combined,2,-32.348904,138.036572
+378,372,Ramco Primary School,Ramco,5322,Primary Education,4,-34.169777,139.933102
+379,650,Rapid Bay Primary School,Rapid Bay,5204,Primary Education,5,-35.526676,138.193855
+380,845,Raukkan Aboriginal School,Raukkan,5259,Aboriginal/Anangu Schools,1,-35.508057,139.131714
+381,1090,Redwood Park Primary School,Redwood Park,5097,Primary Education,6,-34.815018,138.701072
+382,290,Reidy Park Primary School,Mount Gambier,5290,Primary Education,5,-37.834544,140.771765
+383,375,Rendelsham Primary School,Rendelsham,5280,Primary Education,6,-37.551353,140.225103
+384,794,Renmark High School,Renmark,5341,Secondary Education,3,-34.172088,140.741263
+385,377,Renmark North School,Renmark North,5341,Primary Education,4,-34.126337,140.711551
+386,376,Renmark Primary School,Renmark,5341,Primary Education,2,-34.172644,140.74104
+387,378,Renmark West Primary School,Renmark,5341,Primary Education,4,-34.166218,140.710298
+388,1907,Reynella East College,Reynella East,5161,Primary/Secondary Combined,5,-35.09071,138.555575
+389,379,Reynella Primary School,Old Reynella,5161,Primary Education,5,-35.100928,138.537502
+390,1044,Reynella South Primary School,Reynella,5161,Primary Education,4,-35.103687,138.524457
+391,381,Richmond Primary School,Keswick,5035,Primary Education,4,-34.943391,138.571798
+392,1051,Ridgehaven Primary School,Ridgehaven,5097,Primary Education,6,-34.817997,138.710257
+393,685,Risdon Park Primary School,Port Pirie,5540,Primary Education,2,-33.203247,138.008071
+394,1427,Riverdale Primary School,Salisbury Downs,5108,Primary Education,3,-34.766448,138.613754
+395,962,Riverland Special School,Berri,5343,Special Education,3,-34.279428,140.61035
+396,795,Riverton and District High School,Riverton,5412,Secondary Education,4,-34.156173,138.749643
+397,383,Riverton Primary School,Riverton,5412,Primary Education,5,-34.15606,138.744199
+398,384,Robe Primary School,Robe,5276,Primary Education,6,-37.163742,139.761639
+399,385,Robertstown Primary School,Robertstown,5381,Primary Education,4,-33.989691,139.084056
+400,1902,Roma Mitchell Secondary College,Gepps Cross,5094,Secondary Education,3,-34.843058,138.618235
+401,169,Rose Park Primary School,Rose Park,5067,Primary Education,7,-34.93161,138.628893
+402,387,Roseworthy Primary School,Roseworthy,5371,Primary Education,7,-34.53392,138.748218
+403,1817,Roxby Downs Area School,Roxby Downs,5725,Primary/Secondary Combined,5,-30.560299,136.897084
+404,1014,SA School for Vision Impaired,Park Holme,5043,Special Education,6,-34.991009,138.5549
+405,389,Saddleworth Primary School,Saddleworth,5413,Primary Education,4,-34.084411,138.784802
+406,1194,Salisbury Downs Primary School,Salisbury Downs,5108,Primary Education,2,-34.771193,138.622667
+407,1011,Salisbury East High School,Salisbury East,5109,Secondary Education,2,-34.775903,138.667185
+408,1177,Salisbury Heights Primary School,Salisbury Heights,5109,Primary Education,5,-34.758984,138.678709
+409,892,Salisbury High School,Salisbury North,5108,Secondary Education,2,-34.755983,138.640772
+410,664,Salisbury North R-7 School,Salisbury North,5108,Primary Education,2,-34.753217,138.63533
+411,1140,Salisbury Park Primary School,Salisbury Park,5109,Primary Education,3,-34.759701,138.668718
+412,1041,Salisbury Primary School,Salisbury,5108,Primary Education,2,-34.766984,138.647399
+413,395,Sandy Creek Primary School,Cockatoo Valley,5351,Primary Education,6,-34.610068,138.829663
+414,396,Scott Creek Primary School,Scott Creek,5153,Primary Education,7,-35.056668,138.706377
+415,913,Seacliff Primary School,Seacliff,5049,Primary Education,7,-35.037444,138.523767
+416,1207,Seaford K-7 Birth-Y7 Campus,Port Noarlunga South,5167,Primary Education,5,-35.175691,138.472006
+417,1855,Seaford Rise Primary School,Seaford Rise,5169,Primary Education,5,-35.199278,138.487571
+418,641,Seaford Secondary College,Seaford,5169,Primary/Secondary Combined,4,-35.187173,138.482221
+419,941,Seaton High School,Seaton,5023,Secondary Education,4,-34.886112,138.505556
+420,397,Seaton Park Primary School,Seaton,5023,Primary Education,2,-34.895535,138.519943
+421,984,Seaview Downs Primary School,Seaview Downs,5049,Primary Education,6,-35.041379,138.536114
+422,893,Seaview High School,Seacombe Heights,5047,Secondary Education,5,-35.030039,138.547313
+423,1851,Settlers Farm Campus R-7,Paralowie,5108,Primary Education,4,-34.756588,138.595761
+424,1537,Sheidow Park Primary School,Sheidow Park,5158,Primary Education,6,-35.071074,138.533052
+425,742,Snowtown Primary School,Snowtown,5520,Primary Education,3,-33.783548,138.221653
+426,406,Solomontown Primary School,Port Pirie,5540,Primary Education,2,-33.18994,138.019589
+427,1038,South Downs Primary School,Elizabeth Downs,5113,Primary Education,1,-34.706102,138.685487
+428,407,Spalding Primary School,Spalding,5454,Primary Education,5,-33.496312,138.611066
+429,975,Springbank Secondary College,Pasadena,5042,Secondary Education,4,-34.993333,138.590102
+430,408,Springton Primary School,Springton,5235,Primary Education,5,-34.706581,139.088713
+431,1091,St Agnes Primary School,St Agnes,5097,Primary Education,6,-34.83106,138.718391
+432,391,St Leonards Primary School,Glenelg North,5045,Primary Education,6,-34.972261,138.519785
+433,411,Stansbury Primary School,Stansbury,5582,Primary Education,4,-34.907642,137.794689
+434,413,Stirling East Primary School,Stirling,5152,Primary Education,7,-35.002222,138.734746
+435,1481,Stirling North Primary School,Stirling North,5710,Primary Education,3,-32.513732,137.837712
+436,923,Stradbroke School,Rostrevor,5073,Primary Education,7,-34.89348,138.684457
+437,745,Streaky Bay Area School,Streaky Bay,5680,Primary/Secondary Combined,5,-32.798217,134.201213
+438,1195,Stuart High School,Whyalla Stuart,5608,Secondary Education,1,-33.015064,137.517105
+439,1881,Sturt Street Community School,Adelaide,5000,Primary Education,5,-34.933817,138.590211
+440,1100,Surrey Downs R-7 School,Surrey Downs,5126,Primary Education,6,-34.800032,138.711462
+441,422,Suttontown Primary School,Suttontown,5291,Primary Education,5,-37.797141,140.76955
+442,1062,Swallowcliffe School P-7,Davoren Park,5113,Primary Education,1,-34.696782,138.664155
+443,423,Swan Reach Area School,Swan Reach,5354,Primary/Secondary Combined,4,-34.571572,139.604009
+444,424,Tailem Bend Primary School,Tailem Bend,5260,Primary Education,3,-35.259104,139.457249
+445,426,Tantanoola Primary School,Tantanoola,5280,Primary Education,5,-37.698832,140.454312
+446,427,Tanunda Primary School,Tanunda,5352,Primary Education,6,-34.516742,138.982066
+447,430,Tarlee Primary School,Tarlee,5411,Primary Education,5,-34.269925,138.772668
+448,432,Tea Tree Gully Primary School,Tea Tree Gully,5091,Primary Education,6,-34.822942,138.727177
+449,844,The Grove Education Centre,Woodville,5011,Special Education,4,-34.873425,138.544354
+450,1430,The Heights School,Modbury Heights,5092,Primary/Secondary Combined,5,-34.811143,138.682725
+451,1777,The Pines School,Parafield Gardens,5107,Primary Education,3,-34.77288,138.607741
+452,810,Thebarton Senior College,Torrensville,5031,Secondary Education,3,-34.917275,138.562772
+453,1664,Thiele Primary School,Aberfoyle Park,5159,Primary Education,6,-35.067805,138.594104
+454,1154,Thorndon Park Primary School,Athelstone,5076,Primary Education,6,-34.884079,138.693612
+455,438,Tintinara Area School,Tintinara,5266,Primary/Secondary Combined,7,-35.882787,140.061691
+456,1285,Torrensville Primary School,Torrensville,5031,Primary Education,5,-34.919368,138.556719
+457,474,Trinity Gardens School,Trinity Gardens,5068,Primary Education,7,-34.908388,138.641387
+458,442,Truro Primary School,Truro,5356,Primary Education,5,-34.41121,139.126378
+459,743,Tumby Bay Area School,Tumby Bay,5605,Primary/Secondary Combined,5,-34.37575,136.099182
+460,444,Two Wells Primary School,Two Wells,5501,Primary Education,5,-34.591316,138.516996
+461,965,Underdale High School,Underdale,5032,Secondary Education,4,-34.918948,138.544174
+462,446,Ungarra Primary School,Ungarra,5607,Primary Education,7,-34.180902,136.046934
+463,797,Unley High School,Netherby,5062,Secondary Education,6,-34.970162,138.620336
+464,447,Unley Primary School,Unley,5061,Primary Education,7,-34.954404,138.608609
+465,448,Upper Sturt Primary School,Upper Sturt,5156,Primary Education,7,-35.018986,138.683375
+466,449,Uraidla Primary School,Uraidla,5142,Primary Education,7,-34.959029,138.743391
+467,798,Urrbrae Agricultural High School,Netherby,5062,Secondary Education,7,-34.966911,138.62526
+468,967,Vale Park Primary School,Vale Park,5081,Primary Education,6,-34.885256,138.626323
+469,1184,Valley View Secondary School,Para Vista,5093,Secondary Education,3,-34.83428,138.656585
+470,799,Victor Harbor High School,Victor Harbor,5211,Secondary Education,4,-35.556148,138.611226
+471,453,Victor Harbor R-7 School,Victor Harbor,5211,Primary Education,5,-35.541373,138.624567
+472,455,Virginia Primary School,Virginia,5120,Primary Education,5,-34.664655,138.555957
+473,800,Waikerie High School,Waikerie,5330,Secondary Education,4,-34.184679,139.974643
+474,456,Waikerie Primary School,Waikerie,5330,Primary Education,4,-34.181117,139.981115
+475,457,Walkerville Primary School,Walkerville,5081,Primary Education,7,-34.895194,138.613241
+476,460,Wallaroo Mines Primary School,Kadina,5554,Primary Education,3,-33.965894,137.69872
+477,459,Wallaroo Primary School,Wallaroo,5556,Primary Education,2,-33.932746,137.624271
+478,994,Wandana Primary School,Gilles Plains,5086,Primary Education,2,-34.849122,138.661511
+479,467,Warooka Primary School,Warooka,5577,Primary Education,5,-34.990564,137.39902
+480,933,Warradale Primary School,Warradale,5046,Primary Education,5,-35.003708,138.537005
+481,1364,Warriappendi School,Marleston,5033,Secondary Education,1,-34.942677,138.570592
+482,469,Wasleys Primary School,Wasleys,5400,Primary Education,5,-34.471456,138.680418
+483,1717,Watarru Anangu School,Pipalyatjara,872,Aboriginal/Anangu Schools,1,-26.162549,129.172118
+484,470,Watervale Primary School,Watervale,5452,Primary Education,7,-33.960982,138.644648
+485,1004,West Beach Primary School,West Beach,5024,Primary Education,6,-34.937821,138.508809
+486,1246,West Lakes Shore School R-7,West Lakes Shore,5020,Primary Education,6,-34.863454,138.481808
+487,475,Westbourne Park Primary School,Westbourne Park,5041,Primary Education,7,-34.969224,138.591941
+488,1203,Westport Primary School,Semaphore Park,5019,Primary Education,3,-34.855007,138.491158
+489,822,Whyalla High School,Whyalla,5600,Secondary Education,2,-33.038453,137.58087
+490,559,Whyalla Special Education Centre,Whyalla Norrie,5608,Special Education,2,-33.029959,137.548577
+491,625,Whyalla Stuart Campus R-7,Whyalla Stuart,5608,Primary Education,1,-33.015064,137.517105
+492,478,Whyalla Town Primary School,Whyalla,5600,Primary Education,4,-33.036609,137.585025
+493,482,Williamstown Primary School,Williamstown,5351,Primary Education,6,-34.667865,138.890446
+494,679,Willsden Primary School,Port Augusta,5700,Primary Education,1,-32.506303,137.780351
+495,909,Willunga High School,Willunga,5172,Secondary Education,5,-35.263056,138.555471
+496,744,Willunga Primary School,Willunga,5172,Primary Education,6,-35.269384,138.552628
+497,483,Wilmington Primary School,Wilmington,5485,Primary Education,4,-32.651173,138.101868
+498,638,Wirreanda Secondary School,Morphett Vale,5162,Secondary Education,3,-35.127607,138.533815
+499,1776,Woodcroft Primary School,Woodcroft,5162,Primary Education,6,-35.10505,138.556331
+500,1056,Woodend Primary School,Sheidow Park,5158,Primary Education,7,-35.079379,138.533847
+501,495,Woodside Primary School,Woodside,5244,Primary Education,7,-34.952342,138.879672
+502,1904,Woodville Gardens School B-7,Woodville Gardens,5012,Primary Education,2,-34.863319,138.55068
+503,801,Woodville High School,St Clair,5011,Secondary Education,2,-34.872943,138.540808
+504,497,Woodville Primary School,Woodville South,5011,Primary Education,4,-34.880569,138.532716
+505,746,Woomera Area School,Woomera,5720,Primary/Secondary Combined,3,-31.197164,136.825489
+506,765,Wudinna Area School,Wudinna,5652,Primary/Secondary Combined,6,-33.044622,135.462876
+507,533,Wynn Vale R-7 School,Wynn Vale,5127,Primary Education,6,-34.800674,138.687256
+508,501,Yahl Primary School,Yahl,5291,Primary Education,4,-37.879293,140.832014
+509,999,Yalata Anangu School,Yalata,5690,Aboriginal/Anangu Schools,1,-31.480012,131.843548
+510,766,Yankalilla Area School,Yankalilla,5203,Primary/Secondary Combined,5,-35.4533,138.333092
+511,767,Yorketown Area School,Yorketown,5576,Primary/Secondary Combined,4,-35.015376,137.615442
+512,195,Youth Education Centre,Cavan,5094,Secondary Education,1,-34.828265,138.60253
