@@ -16,10 +16,12 @@ The **aim** of this repository is to chronicle and share my own Python learning 
 2. [Writing conditions and for and while loops](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/01_Writing-conditions-and-for-and-while-loops-in-Python.ipynb)  
 3. [Writing functions and error handling](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/02_Writing-functions-in-Python.ipynb)  
 4. [Python data structures](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/03_Python-data-structures.ipynb)  
-5. [Manipulating Pandas DataFrames](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/04_Manipulating-Pandas-DataFrames.ipynb)  
-6. Plotting with Matplotlib and Seaborn  
-7. Introduction to Natural Language Text Processing  
-8. Web scraping with Beautiful Soup  
+5. [Wrangling Pandas DataFrames](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/04_Wrangling-Pandas-DataFrames.ipynb)  
+6. [Joining and reshaping Pandas DataFrames](https://github.com/erikaduan/Introduction-to-Python/blob/master/03_notebooks/05_Joining-and-reshaping-Pandas-DataFrames.ipynb)  
+7. Plotting with Matplotlib and Seaborn  
+8. Introduction to Natural Language Text Processing  
+9. Web scraping with Beautiful Soup  
+10. Introduction to machine learning algorithms with Sci-kit learn  
 
 **My past Python workshop instructors:**
 
