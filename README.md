@@ -5,7 +5,7 @@ This repository contains tips for common tasks encountered whilst working in dat
 
 # Topics  
 
-1. Creating simple unit tests for datasets  
+1. [Creating simple unit tests for datasets](https://github.com/erikaduan/python_data_science_tips/blob/master/notebooks/code-unit_testing.ipynb)  
 2. [Applying object-oriented programming to model development](https://github.com/erikaduan/python_data_science_tips/blob/master/notebooks/ml-object_oriented_programming_introduction.ipynb)  
 
 # Other resources  
